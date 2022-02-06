@@ -54,6 +54,7 @@ const Contact = () => {
                 ></textarea>
               </div>
               <button type="submit" class="btn btn-outline-dark">
+              <i className="fa fa-paper-plane me-1"></i> 
                 Send Message
               </button>
             </form> 
