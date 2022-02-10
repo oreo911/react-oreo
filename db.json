@@ -3,55 +3,73 @@
     {
       "id": 0,
       "title": "Illmu Pengetahuan Sosial",
-      "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+      "desc": "Pendidikan IPS adalah penyederhanaan atau adaptasi dari disiplin ilmu-ilmu sosial dan humaniora, serta kegiatan dasar manusia yang diorganisasikan dan disajikan secara ilmiah dan pedagogik/psikologis untuk tujuan pendidikan.",
+      "kelas": 9,
+      "tingkat": "SMP",
       "img": "/assets/images/b0.jpeg"
     },
     {
       "id": 1,
       "title": "Matematika",
-      "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+      "desc": " adalah ilmu tentang logika mengenai bentuk, susunan besaran, dan konsep-konsep yang berhubungan satu dengan yang lainnya dengan jumlah yang banyak.",
+      "kelas": 9,
+      "tingkat": "SMP",
       "img": "/assets/images/b1.jpeg"
     },
     {
       "id": 2,
       "title": "Bahasa Indonesia",
-      "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+      "desc": "adalah bahasa kebanggaan warga negara tanah ibu Pertiwi yang menjadi bahasa resmi dan bahasa persatuan Republik Indonesia.",
+      "kelas": 10,
+      "tingkat": "SMA",
       "img": "/assets/images/b2.jpeg"
     },
     {
       "id": 3,
       "title": "Illmu Pengetahuan Alam",
-      "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+      "desc": "Ilmu alam atau ilmu pengetahuan alam adalah istilah yang digunakan yang merujuk pada rumpun ilmu di mana objeknya adalah benda-benda alam dengan hukum-hukum yang pasti dan umum, berlaku kapan pun dan di mana pun. Orang yang menekuni bidang ilmu pengetahuan alam disebut sebagai Saintis.",
+      "kelas": 8,
+      "tingkat": "SMP",
       "img": "/assets/images/b3.jpeg"
     },
     {
       "id": 4,
-      "title": "Pendidikan Agama",
-      "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+      "title": "Pendidikan Agama ISlam",
+      "desc": "Studi Islam adalah setiap studi yang berhubungan dengan Islam, termasuk Fikih, Ilmu Kalam, dan pemahaman-pemahaman lainnya seperti Sekularisme di barat, Ilmu-ilmu Islam, dan Ekonomi Islam.",
+      "kelas": 1,
+      "tingkat": "SD",
       "img": "/assets/images/b4.jpeg"
     },
     {
       "id": 5,
       "title": "Bahasa Inggris",
-      "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+      "desc": "Bahasa Inggris adalah bahasa Jermanik yang pertama kali dituturkan di Inggris pada Abad Pertengahan Awal dan saat ini merupakan bahasa yang paling umum digunakan di seluruh dunia.",
+      "kelas": 9,
+      "tingkat": "SMP",
       "img": "/assets/images/b5.png"
     },
     {
       "id": 6,
       "title": "Agama Budha",
-      "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+      "desc": "Pendidikan Agama Buddha adalah usaha yang dilakukan secara terencana dan berkesinambungan dalam rangka mengembangkan kemampuan peserta didik untuk memperteguh keimanan dan ketakwaan kepada Tuhan Yang Maha Esa dan berakhlak mulia, serta peningkatan potensi spiritual sesuai dengan ajaran agama Buddha.",
+      "kelas": 1,
+      "tingkat": "SD",
       "img": "/assets/images/b6.jpeg"
     },
     {
       "id": 7,
       "title": "Agama Hindu",
-      "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+      "desc": "Pendidikan Agama Hindu adalah usaha yang dilakukan secara terencana dan berkesinambungan dalam rangka mengembangkan kemampuan peserta didik untuk memperteguh keimanan dan ketakwaan kepada Tuhan Yang Maha Esa dan berakhlak mulia, serta peningkatan potensi spiritual sesuai dengan ajaran agama Hindu.",
+      "kelas": 9,
+      "tingkat": "SMP",
       "img": "/assets/images/b7.jpeg"
     },
     {
       "id": 8,
       "title": "Agama Katholik",
-      "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+      "desc": "Pendidikan Agama Katolik adalah usaha yang dilakukan secara terencana dan berkesinambungan dalam rangka mengembangkan kemampuan peserta didik untuk memperteguh iman dan ketaqwaan terhadap Tuhan Yang Maha Esa sesuai dengan ajaran Gereja Katolik, dengan tetap memperhatikan penghormatan terhadap agama lain.",
+      "kelas": 1,
+      "tingkat": "SD",
       "img": "/assets/images/b8.jpeg"
     }
   ],
