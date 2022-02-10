@@ -13,8 +13,9 @@
       "id": 1,
       "title": "Matematika",
       "desc": " adalah ilmu tentang logika mengenai bentuk, susunan besaran, dan konsep-konsep yang berhubungan satu dengan yang lainnya dengan jumlah yang banyak.",
-      "kelas": 9,
-      "tingkat": "SMP",
+      "kelas": 11,
+      "tingkat": "SMA",
+      "filepdf": "f1.pdf",
       "img": "/assets/images/b1.jpeg"
     },
     {
@@ -23,22 +24,25 @@
       "desc": "adalah bahasa kebanggaan warga negara tanah ibu Pertiwi yang menjadi bahasa resmi dan bahasa persatuan Republik Indonesia.",
       "kelas": 10,
       "tingkat": "SMA",
+      "filepdf": "f2.pdf",
       "img": "/assets/images/b2.jpeg"
     },
     {
       "id": 3,
       "title": "Illmu Pengetahuan Alam",
       "desc": "Ilmu alam atau ilmu pengetahuan alam adalah istilah yang digunakan yang merujuk pada rumpun ilmu di mana objeknya adalah benda-benda alam dengan hukum-hukum yang pasti dan umum, berlaku kapan pun dan di mana pun. Orang yang menekuni bidang ilmu pengetahuan alam disebut sebagai Saintis.",
-      "kelas": 8,
+      "kelas": 7,
       "tingkat": "SMP",
+      "filepdf": "f3.pdf",
       "img": "/assets/images/b3.jpeg"
     },
     {
       "id": 4,
-      "title": "Pendidikan Agama ISlam",
+      "title": "Pendidikan Agama Islam",
       "desc": "Studi Islam adalah setiap studi yang berhubungan dengan Islam, termasuk Fikih, Ilmu Kalam, dan pemahaman-pemahaman lainnya seperti Sekularisme di barat, Ilmu-ilmu Islam, dan Ekonomi Islam.",
       "kelas": 1,
       "tingkat": "SD",
+      "filepdf": "f4.pdf",
       "img": "/assets/images/b4.jpeg"
     },
     {
@@ -47,6 +51,7 @@
       "desc": "Bahasa Inggris adalah bahasa Jermanik yang pertama kali dituturkan di Inggris pada Abad Pertengahan Awal dan saat ini merupakan bahasa yang paling umum digunakan di seluruh dunia.",
       "kelas": 9,
       "tingkat": "SMP",
+      "filepdf": "f5.pdf",
       "img": "/assets/images/b5.png"
     },
     {
@@ -55,6 +60,7 @@
       "desc": "Pendidikan Agama Buddha adalah usaha yang dilakukan secara terencana dan berkesinambungan dalam rangka mengembangkan kemampuan peserta didik untuk memperteguh keimanan dan ketakwaan kepada Tuhan Yang Maha Esa dan berakhlak mulia, serta peningkatan potensi spiritual sesuai dengan ajaran agama Buddha.",
       "kelas": 1,
       "tingkat": "SD",
+      "filepdf": "f6.pdf",
       "img": "/assets/images/b6.jpeg"
     },
     {
@@ -63,6 +69,7 @@
       "desc": "Pendidikan Agama Hindu adalah usaha yang dilakukan secara terencana dan berkesinambungan dalam rangka mengembangkan kemampuan peserta didik untuk memperteguh keimanan dan ketakwaan kepada Tuhan Yang Maha Esa dan berakhlak mulia, serta peningkatan potensi spiritual sesuai dengan ajaran agama Hindu.",
       "kelas": 9,
       "tingkat": "SMP",
+      "filepdf": "f7.pdf",
       "img": "/assets/images/b7.jpeg"
     },
     {
@@ -71,6 +78,7 @@
       "desc": "Pendidikan Agama Katolik adalah usaha yang dilakukan secara terencana dan berkesinambungan dalam rangka mengembangkan kemampuan peserta didik untuk memperteguh iman dan ketaqwaan terhadap Tuhan Yang Maha Esa sesuai dengan ajaran Gereja Katolik, dengan tetap memperhatikan penghormatan terhadap agama lain.",
       "kelas": 1,
       "tingkat": "SD",
+      "filepdf": "f8.pdf",
       "img": "/assets/images/b8.jpeg"
     }
   ],
