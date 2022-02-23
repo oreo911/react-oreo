@@ -2,84 +2,45 @@
   "buku": [
     {
       "id": 0,
-      "title": "Illmu Pengetahuan Sosial",
-      "desc": "Pendidikan IPS adalah penyederhanaan atau adaptasi dari disiplin ilmu-ilmu sosial dan humaniora, serta kegiatan dasar manusia yang diorganisasikan dan disajikan secara ilmiah dan pedagogik/psikologis untuk tujuan pendidikan.",
-      "kelas": 9,
-      "tingkat": "SMP",
-      "filepdf": "f0.pdf",
-      "img": "/assets/images/b0.jpeg"
+      "bookName": "Other Words For Home",
+      "bookCover": "../assets/images/other_words_for_home.jpg",
+      "rating": 4.5,
+      "language": "Eng",
+      "pageNo": 341,
+      "author": "Jasmine Warga",
+      "genre": ["Romance", "Adventure", "Drama"],
+      "readed": "12k",
+      "description": "Jude never thought she’d be leaving her beloved older brother and father behind, all the way across the ocean in Syria. But when things in her hometown start becoming volatile, Jude and her mother are sent to live in Cincinnati with relatives. At first, everything in America seems too fast and too loud. The American movies that Jude has always loved haven’t quite prepared her for starting school in the US—and her new label of 'Middle Eastern,' an identity she’s never known before. But this life also brings unexpected surprises—there are new friends, a whole new family, and a school musical that Jude might just try out for. Maybe America, too, is a place where Jude can be seen as she really is.",
+      "backgroundColor": "rgba(240,240,232,0.9)",
+      "navTintColor": "#000"
     },
     {
       "id": 1,
-      "title": "Matematika",
-      "desc": " adalah ilmu tentang logika mengenai bentuk, susunan besaran, dan konsep-konsep yang berhubungan satu dengan yang lainnya dengan jumlah yang banyak.",
-      "kelas": 11,
-      "tingkat": "SMA",
-      "filepdf": "f1.pdf",
-      "img": "/assets/images/b1.jpeg"
+      "bookName": "The Metropolis",
+      "bookCover": "../assets/images/the_metropolist.jpg",
+      "rating": 4.1,
+      "language": "Eng",
+      "pageNo": 272,
+      "author": "Seith Fried",
+      "genre": ["Drama", "Adventure"],
+      "readed": "13k",
+      "description": "In Metropolis, the gleaming city of tomorrow, the dream of the great American city has been achieved. But all that is about to change, unless a neurotic, rule-following bureaucrat and an irreverent, freewheeling artificial intelligence can save the city from a mysterious terrorist plot that threatens its very existence. Henry Thompson has dedicated his life to improving America's infrastructure as a proud employee of the United States Municipal Survey. So when the agency comes under attack, he dutifully accepts his unexpected mission to visit Metropolis looking for answers. But his plans to investigate quietly, quickly, and carefully are interrupted by his new partner: a day-drinking know-it-all named OWEN, who also turns out to be the projected embodiment of the agency's supercomputer. Soon, Henry and OWEN are fighting to save not only their own lives and those of the city's millions of inhabitants, but also the soul of Metropolis. The Municipalists is a thrilling, funny, and touching adventure story, a tour-de-force of imagination that trenchantly explores our relationships to the cities around us and the technologies guiding us into the future.",
+      "backgroundColor": "rgba(247,239,219,0.9)",
+      "navTintColor": "#000"
     },
     {
       "id": 2,
-      "title": "Bahasa Indonesia",
-      "desc": "adalah bahasa kebanggaan warga negara tanah ibu Pertiwi yang menjadi bahasa resmi dan bahasa persatuan Republik Indonesia.",
-      "kelas": 10,
-      "tingkat": "SMA",
-      "filepdf": "f2.pdf",
-      "img": "/assets/images/b2.jpeg"
-    },
-    {
-      "id": 3,
-      "title": "Illmu Pengetahuan Alam",
-      "desc": "Ilmu alam atau ilmu pengetahuan alam adalah istilah yang digunakan yang merujuk pada rumpun ilmu di mana objeknya adalah benda-benda alam dengan hukum-hukum yang pasti dan umum, berlaku kapan pun dan di mana pun. Orang yang menekuni bidang ilmu pengetahuan alam disebut sebagai Saintis.",
-      "kelas": 7,
-      "tingkat": "SMP",
-      "filepdf": "f3.pdf",
-      "img": "/assets/images/b3.jpeg"
-    },
-    {
-      "id": 4,
-      "title": "Pendidikan Agama Islam",
-      "desc": "Studi Islam adalah setiap studi yang berhubungan dengan Islam, termasuk Fikih, Ilmu Kalam, dan pemahaman-pemahaman lainnya seperti Sekularisme di barat, Ilmu-ilmu Islam, dan Ekonomi Islam.",
-      "kelas": 1,
-      "tingkat": "SD",
-      "filepdf": "f4.pdf",
-      "img": "/assets/images/b4.jpeg"
-    },
-    {
-      "id": 5,
-      "title": "Bahasa Inggris",
-      "desc": "Bahasa Inggris adalah bahasa Jermanik yang pertama kali dituturkan di Inggris pada Abad Pertengahan Awal dan saat ini merupakan bahasa yang paling umum digunakan di seluruh dunia.",
-      "kelas": 9,
-      "tingkat": "SMP",
-      "filepdf": "f5.pdf",
-      "img": "/assets/images/b5.png"
-    },
-    {
-      "id": 6,
-      "title": "Agama Budha",
-      "desc": "Pendidikan Agama Buddha adalah usaha yang dilakukan secara terencana dan berkesinambungan dalam rangka mengembangkan kemampuan peserta didik untuk memperteguh keimanan dan ketakwaan kepada Tuhan Yang Maha Esa dan berakhlak mulia, serta peningkatan potensi spiritual sesuai dengan ajaran agama Buddha.",
-      "kelas": 1,
-      "tingkat": "SD",
-      "filepdf": "f6.pdf",
-      "img": "/assets/images/b6.jpeg"
-    },
-    {
-      "id": 7,
-      "title": "Agama Hindu",
-      "desc": "Pendidikan Agama Hindu adalah usaha yang dilakukan secara terencana dan berkesinambungan dalam rangka mengembangkan kemampuan peserta didik untuk memperteguh keimanan dan ketakwaan kepada Tuhan Yang Maha Esa dan berakhlak mulia, serta peningkatan potensi spiritual sesuai dengan ajaran agama Hindu.",
-      "kelas": 9,
-      "tingkat": "SMP",
-      "filepdf": "f7.pdf",
-      "img": "/assets/images/b7.jpeg"
-    },
-    {
-      "id": 8,
-      "title": "Agama Katholik",
-      "desc": "Pendidikan Agama Katolik adalah usaha yang dilakukan secara terencana dan berkesinambungan dalam rangka mengembangkan kemampuan peserta didik untuk memperteguh iman dan ketaqwaan terhadap Tuhan Yang Maha Esa sesuai dengan ajaran Gereja Katolik, dengan tetap memperhatikan penghormatan terhadap agama lain.",
-      "kelas": 1,
-      "tingkat": "SD",
-      "filepdf": "f8.pdf",
-      "img": "/assets/images/b8.jpeg"
+      "bookName": "The Tiny Dragon",
+      "bookCover": "../assets/images/the_tiny_dragon.jpg",
+      "rating": 3.5,
+      "language": "Eng",
+      "pageNo": 110,
+      "author": "Ana C Bouvier",
+      "genre": ["Drama", "Adventure", "Romance"],
+      "readed": "13k",
+      "description": "This sketchbook for kids is the perfect tool to improve your drawing skills! Designed to encourage kids around the world to express their uniqueness through drawing, sketching or doodling, this sketch book is filled with 110 high quality blank pages for creations. Add some fun markers, crayons, and art supplies and you have the perfect, easy gift for kids!",
+      "backgroundColor": "rgba(119,77,143,0.9)",
+      "navTintColor": "#FFF"
     }
   ],
   "profile": [
