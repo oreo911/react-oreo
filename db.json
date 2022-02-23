@@ -2,8 +2,8 @@
   "buku": [
     {
       "id": 0,
-      "bookName": "Other Words For Home",
-      "bookCover": "https://shop.tokodigital.web.id/wp-content/uploads/2020/01/cover-buku.png",
+      "bookName": "The Metropolis",
+      "bookCover": "https://d3525k1ryd2155.cloudfront.net/h/533/357/536357533.0.x.1.jpg",
       "rating": 4.5,
       "language": "Eng",
       "pageNo": 341,
@@ -16,8 +16,8 @@
     },
     {
       "id": 1,
-      "bookName": "The Metropolis",
-      "bookCover": "https://shop.tokodigital.web.id/wp-content/uploads/2020/01/cover-buku.png",
+      "bookName": "Other Words For Home",
+      "bookCover": "https://i.pinimg.com/originals/3e/33/72/3e33727f9010fcfa61f3e6dcee80c095.jpg",
       "rating": 4.1,
       "language": "Eng",
       "pageNo": 272,
@@ -30,8 +30,8 @@
     },
     {
       "id": 2,
-      "bookName": "The Tiny Dragon",
-      "bookCover": "https://shop.tokodigital.web.id/wp-content/uploads/2020/01/cover-buku.png",
+      "bookName": "The Dragon Book",
+      "bookCover": "http://i0.wp.com/thebooksmugglers.com/wp-content/uploads/2009/11/9781849390804.jpg",
       "rating": 3.5,
       "language": "Eng",
       "pageNo": 110,
