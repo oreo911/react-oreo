@@ -32,7 +32,7 @@
       "navTintColor": "#000",
       "completion": "100%",
       "lastRead": "1d 5h",
-      "categoryName": ["Best Seller", "The Latest"]
+      "categoryName": "The Latest"
     },
     {
       "id": 2,
@@ -49,7 +49,7 @@
       "navTintColor": "#FFF",
       "completion": "80%",
       "lastRead": "5d 9h",
-      "categoryName": ["Best Seller", "Coming Soon"]
+      "categoryName": "Comming Soon"
     }
   ]
 }
