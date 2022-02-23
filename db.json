@@ -14,7 +14,8 @@
       "backgroundColor": "rgba(240,240,232,0.9)",
       "navTintColor": "#000",
       "completion": "75%",
-      "lastRead": "3d 5h"
+      "lastRead": "3d 5h",
+      "categoryName": "Best Seller"
     },
     {
       "id": 1,
@@ -30,7 +31,8 @@
       "backgroundColor": "rgba(247,239,219,0.9)",
       "navTintColor": "#000",
       "completion": "100%",
-      "lastRead": "1d 5h"
+      "lastRead": "1d 5h",
+      "categoryName": ["Best Seller", "The Latest"]
     },
     {
       "id": 2,
@@ -46,13 +48,8 @@
       "backgroundColor": "rgba(119,77,143,0.9)",
       "navTintColor": "#FFF",
       "completion": "80%",
-      "lastRead": "5d 9h"
-    }
-  ],
-  "profile": [
-    {
-      "id": 1,
-      "name": "typicode"
+      "lastRead": "5d 9h",
+      "categoryName": ["Best Seller", "Coming Soon"]
     }
   ]
 }
