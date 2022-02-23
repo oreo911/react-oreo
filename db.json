@@ -3,7 +3,7 @@
     {
       "id": 0,
       "bookName": "Other Words For Home",
-      "bookCover": "../assets/images/other_words_for_home.jpg",
+      "bookCover": "/assets/images/other_words_for_home.jpg",
       "rating": 4.5,
       "language": "Eng",
       "pageNo": 341,
@@ -17,7 +17,7 @@
     {
       "id": 1,
       "bookName": "The Metropolis",
-      "bookCover": "../assets/images/the_metropolist.jpg",
+      "bookCover": "/assets/images/the_metropolist.jpg",
       "rating": 4.1,
       "language": "Eng",
       "pageNo": 272,
@@ -31,7 +31,7 @@
     {
       "id": 2,
       "bookName": "The Tiny Dragon",
-      "bookCover": "../assets/images/the_tiny_dragon.jpg",
+      "bookCover": "/assets/images/the_tiny_dragon.jpg",
       "rating": 3.5,
       "language": "Eng",
       "pageNo": 110,
