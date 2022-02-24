@@ -51,17 +51,17 @@
   ],
   "categoriesData": [
     {
-      "id": 1,
+      "id": 0,
       "categoryName": "Best Seller",
       "books": ["Other Words For Home", "The Metropolis", "The Dragon Book"]
     },
     {
-      "id": 2,
+      "id": 1,
       "categoryName": "The Latest",
       "books": ["The Metropolis"]
     },
     {
-      "id": 3,
+      "id": 2,
       "categoryName": "Coming Soon",
       "books": ["The Dragon Book"]
     }
