@@ -14,8 +14,7 @@
       "backgroundColor": "rgba(240,240,232,0.9)",
       "navTintColor": "#000",
       "completion": "75%",
-      "lastRead": "3d 5h",
-      "categoryName": "Best Seller"
+      "lastRead": "3d 5h"
     },
     {
       "id": 1,
@@ -31,8 +30,7 @@
       "backgroundColor": "rgba(247,239,219,0.9)",
       "navTintColor": "#000",
       "completion": "100%",
-      "lastRead": "1d 5h",
-      "categoryName": "The Latest"
+      "lastRead": "1d 5h"
     },
     {
       "id": 2,
@@ -48,8 +46,24 @@
       "backgroundColor": "rgba(119,77,143,0.9)",
       "navTintColor": "#FFF",
       "completion": "80%",
-      "lastRead": "5d 9h",
-      "categoryName": "Comming Soon"
+      "lastRead": "5d 9h"
+    }
+  ],
+  "categoriesData": [
+    {
+      "id": 1,
+      "categoryName": "Best Seller",
+      "books": ["Other Words For Home", "The Metropolis", "The Dragon Book"]
+    },
+    {
+      "id": 2,
+      "categoryName": "The Latest",
+      "books": ["The Metropolis"]
+    },
+    {
+      "id": 3,
+      "categoryName": "Coming Soon",
+      "books": ["The Dragon Book"]
     }
   ]
 }
